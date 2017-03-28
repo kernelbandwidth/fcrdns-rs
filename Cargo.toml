@@ -1,0 +1,6 @@
+[package]
+name = "fcrdns-rs"
+version = "0.1.0"
+authors = ["James Crooks <crooks1379@gmail.com>"]
+
+[dependencies]
